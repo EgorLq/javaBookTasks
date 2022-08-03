@@ -15,6 +15,7 @@ public class taskTwo {
         numbersDecider numbersDecider = new numbersDecider() ; // инициализируем класс
         palindrome palindrome= new palindrome() ; // инициализируем класс
         elementsHalfScrip elementsHalfScrip = new elementsHalfScrip() ; // инициализируем класс
+        luckyNumber luckyNumber = new luckyNumber() ;
 
         for (int i=0; size>i ;i++) { // цикл ввода чисел
             numbers[i] = scan.nextInt();
@@ -30,6 +31,8 @@ public class taskTwo {
         numbersDecider.findNumbersDecider(numbers); // выводим  числа в порядке убывания частоты встреч чисел
         palindrome.findPalindrome(numbers); // выводим число паллиндром
         elementsHalfScrip.findElementsHalfScrip(numbers); // выводим число равнное полусумме
+      luckyNumber.findLucky(numbers) ;
+
 
     }
 }
