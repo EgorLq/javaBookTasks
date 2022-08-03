@@ -12,7 +12,7 @@ public class luckyNumber {
                 ans = 0;
             }
         }
-        System.out.println("Счасливые числа "+ans);
+        System.out.println("Счасливые числа  "+ans);
         return ans;
     }
 }
