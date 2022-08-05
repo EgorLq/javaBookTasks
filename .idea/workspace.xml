@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6546bb85-2bb8-4eea-91d5-85258e150c58" name="Changes" comment="javaBookTasks">
-      <change afterPath="$PROJECT_DIR$/taskTwo/luckyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/avgMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/numberGrowth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/pallindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/shortLongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/smollerBiggerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/taskThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/uniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/variosNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taskTwo/taskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/taskTwo/taskTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +53,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.taskTwo">
+  <component name="RunManager" selected="Application.taskThree">
     <configuration name="taskOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="taskOne" />
       <module name="taskOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="taskThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taskThree" />
+      <module name="taskThree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -63,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.taskThree" />
         <item itemvalue="Application.taskTwo" />
         <item itemvalue="Application.taskOne" />
       </list>
@@ -84,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659539881991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="javaBookTasks">
+      <created>1659541476551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659541476551</updated>
+    </task>
+    <task id="LOCAL-00003" summary="javaBookTasks">
+      <created>1659541564839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659541564839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
