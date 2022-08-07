@@ -23,6 +23,7 @@ public class taskThree {
         numberGrowth.findNumberGrowth(numbers);
            variosNumber.findvariosNumber(numbers);
         pallindromeNumber.findpallindromeNumber(numbers);
+
     }
 }
 
