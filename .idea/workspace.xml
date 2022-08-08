@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6546bb85-2bb8-4eea-91d5-85258e150c58" name="Changes" comment="javaBookTasks">
-      <change afterPath="$PROJECT_DIR$/taskFour/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFour/binary129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFour/divisibility3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFour/mounthOfTheYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFour/multiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFour/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFour/reverseMassive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskFive/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskFive/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskFive/sortMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskFive/taskFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taskThree/taskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/taskThree/taskThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,16 +50,9 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.mounthOfTheYear">
+  <component name="RunManager" selected="Application.taskFive">
     <configuration name="binary129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binary129" />
-      <module name="taskFour" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="divisibility3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="divisibility3" />
       <module name="taskFour" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,13 +65,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiplicationTable" />
-      <module name="taskFour" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="reverseMassive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reverseMassive" />
       <module name="taskFour" />
@@ -91,13 +72,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sortMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortMatrix" />
+      <module name="taskFive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="taskFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taskFive" />
+      <module name="taskFive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.taskFive" />
+        <item itemvalue="Application.sortMatrix" />
+        <item itemvalue="Application.reverseMassive" />
         <item itemvalue="Application.mounthOfTheYear" />
         <item itemvalue="Application.binary129" />
-        <item itemvalue="Application.divisibility3" />
-        <item itemvalue="Application.reverseMassive" />
-        <item itemvalue="Application.multiplicationTable" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659707142890</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="javaBookTasks">
+      <created>1659895947404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659895947404</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
