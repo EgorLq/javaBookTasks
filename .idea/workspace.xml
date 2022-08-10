@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6546bb85-2bb8-4eea-91d5-85258e150c58" name="Changes" comment="javaBookTasks">
-      <change afterPath="$PROJECT_DIR$/taskFive/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFive/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFive/sortMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFive/taskFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskFive/printArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskFive/random.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskFive/taskFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/taskFive/taskFive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659895947404</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="javaBookTasks">
+      <created>1659996312337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659996312337</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
