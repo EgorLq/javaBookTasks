@@ -1,4 +1,4 @@
-import static java.lang.Math.random;
+
 import java.util.Random;
 public class random {
     void findRandom(int a[][], int d) {
