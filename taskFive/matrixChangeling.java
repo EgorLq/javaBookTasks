@@ -13,7 +13,7 @@ public class matrixChangeling {
         System.out.println("Поворт матрицы на 180 градусов против часовой стрелки");
         for (int i = size - 1; i >= 0; i--) {
             for (int j = size - 1; j >= 0; j--)
-                System.out.print(matrix[i][j] + "  ");
+                System.out.print(matrix[i][j] + "\t");
 
             System.out.println();
         }
@@ -25,7 +25,7 @@ public class matrixChangeling {
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix.length; j++) {
                 result[i][j] = matrix[matrix.length - 1 - j][i];
-                System.out.print(result[i][j] + " ");
+                System.out.print(result[i][j] + "\t");
             }
             System.out.println();
 
