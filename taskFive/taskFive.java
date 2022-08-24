@@ -8,6 +8,8 @@ public class taskFive {
           Move Move =new Move() ;
           matrixDecider matrixDecider = new matrixDecider() ;
           matrixSum matrixSum = new matrixSum() ;
+          matrixNew matrixNew = new matrixNew() ;
+          matrixChangeling matrixChangeling = new matrixChangeling() ;
         int[][] array = new int[matrix][matrix];
         random.findRandom(array,matrix);
         printArray.findPrintArray(array);
@@ -19,8 +21,14 @@ public class taskFive {
       //  printArray.findPrintArray(array);
       //  Move.moveToRight(array);
      //   printArray.findPrintArray(array);
-        matrixDecider.inDecrease(array);
-        matrixSum.matrixSumFind(array,matrix);
+     //   matrixDecider.inDecrease(array);
+     //   matrixSum.matrixSumFind(array,matrix);
+     //   matrixNew.findNewMatrix(matrix);
+      matrixChangeling.matrixChangeling90(array , matrix);
+       matrixChangeling.matrixChangeling180(array ,matrix);
+     matrixChangeling.matrixChangling270(array,matrix);
+
+
 
 
 
