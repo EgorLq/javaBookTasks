@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6546bb85-2bb8-4eea-91d5-85258e150c58" name="Changes" comment="add  matrixDeterminant">
-      <change afterPath="$PROJECT_DIR$/taskFive/averageMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskFive/maxElementMatrix.java" afterDir="false" />
+    <list default="true" id="6546bb85-2bb8-4eea-91d5-85258e150c58" name="Changes" comment="add  remove rows and colums from max element matrix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taskFive/matrixNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/taskFive/matrixNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taskFive/printArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/taskFive/printArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/taskFive/taskFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/taskFive/taskFive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661513175763</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add  remove rows and colums from max element matrix">
+      <created>1661517334724</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661517334724</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +211,7 @@
     <MESSAGE value="add two class" />
     <MESSAGE value="add turns matrix" />
     <MESSAGE value="add  matrixDeterminant" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  matrixDeterminant" />
+    <MESSAGE value="add  remove rows and colums from max element matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="add  remove rows and colums from max element matrix" />
   </component>
 </project>
