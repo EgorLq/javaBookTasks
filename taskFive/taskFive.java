@@ -10,6 +10,7 @@ public class taskFive {
           matrixSum matrixSum = new matrixSum() ;
           matrixNew matrixNew = new matrixNew() ;
           matrixChangeling matrixChangeling = new matrixChangeling() ;
+          matrixDeterminant matrixDeterminant = new matrixDeterminant() ;
         int[][] array = new int[matrix][matrix];
         random.findRandom(array,matrix);
         printArray.findPrintArray(array);
@@ -24,9 +25,10 @@ public class taskFive {
      //   matrixDecider.inDecrease(array);
      //   matrixSum.matrixSumFind(array,matrix);
      //   matrixNew.findNewMatrix(matrix);
-      matrixChangeling.matrixChangeling90(array , matrix);
-       matrixChangeling.matrixChangeling180(array ,matrix);
-     matrixChangeling.matrixChangling270(array,matrix);
+  //    matrixChangeling.matrixChangeling90(array , matrix);
+  //     matrixChangeling.matrixChangeling180(array ,matrix);
+ //    matrixChangeling.matrixChangling270(array,matrix);
+        matrixDeterminant.findMatrixDeterminant(array ,matrix);
 
 
 
