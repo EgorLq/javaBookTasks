@@ -11,6 +11,8 @@ public class taskFive {
           matrixNew matrixNew = new matrixNew() ;
           matrixChangeling matrixChangeling = new matrixChangeling() ;
           matrixDeterminant matrixDeterminant = new matrixDeterminant() ;
+          averageMatrix averageMatrix = new averageMatrix() ;
+          maxElementMatrix maxElementMatrix = new maxElementMatrix() ;
         int[][] array = new int[matrix][matrix];
         random.findRandom(array,matrix);
         printArray.findPrintArray(array);
@@ -28,7 +30,9 @@ public class taskFive {
   //    matrixChangeling.matrixChangeling90(array , matrix);
   //     matrixChangeling.matrixChangeling180(array ,matrix);
  //    matrixChangeling.matrixChangling270(array,matrix);
-        matrixDeterminant.findMatrixDeterminant(array ,matrix);
+ //       matrixDeterminant.findMatrixDeterminant(array ,matrix);
+      //  averageMatrix.findAverageMatrix(array,matrix);
+        maxElementMatrix.findMaxElementMatrix(array,matrix);
 
 
 

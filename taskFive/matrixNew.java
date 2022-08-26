@@ -1,4 +1,3 @@
-
 public class matrixNew {
     void findNewMatrix (int matrix) {
 
@@ -9,7 +8,7 @@ public class matrixNew {
             for (int j = 0; j < neo; j++) {
                  a++;
                 newMatrix[i][j]= a ;
-                System.out.print(newMatrix[i][j] +" ");
+                System.out.print(newMatrix[i][j] +"\t");
             }
             System.out.println();
         }
