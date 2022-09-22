@@ -1,5 +1,5 @@
-import java.util.* ;
 public class matrixDeterminant {
+
     void findMatrixDeterminant(int matrix[][], int size) {
         if (matrix.length == 1) {
             System.out.println(matrix[0][0]);
